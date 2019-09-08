@@ -50,6 +50,7 @@ class BotFrame(wx.Frame):
 if __name__ == "__main__":
     app = wx.App()
     frame = BotFrame()
-    frame.SetMaxSize(wx.Size(400,400))
-    frame.SetMinSize(wx.Size(400,400))
+    frame.SetMaxSize(wx.Size(500,500))
+    frame.SetIcon(wx.Icon("images/icon.ico"))
+    frame.SetMinSize(wx.Size(300,300))
     app.MainLoop()
