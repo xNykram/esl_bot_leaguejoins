@@ -11,6 +11,7 @@
 <p align="center">
   <img src="https://i.imgur.com/HiKFJET.png">
 </p>
+
 ### Cele
 > - rozbudowanie bota,
 > - dodanie dodatkowej funkcji potwierdzającej upr. administratora,
