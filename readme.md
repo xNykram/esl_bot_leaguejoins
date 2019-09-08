@@ -1,5 +1,7 @@
 # APLIKACJA DLA ADMINISTRATORÓW ESL
-![eslbotimage](https://i.imgur.com/FuOlCC3.png)
+<p align="center">
+  <img width="600" height="200" src="https://i.imgur.com/FuOlCC3.png">
+</p>
 ### O aplikacji
 > Celem bota jest informowanie administratorów ESL MP o pojawiających się leaguejoinsach (prośba o dołączenie do turnieju). Aplikacja działa lokalnie, pobiera dane logowania i zapisuje je tylko w pliku json na dysku. Istnieje możliwość zapamiętania konta.
 
