@@ -13,6 +13,7 @@
 </p>
 
 ### Cele
+> - naprawienie zapisu delayu
 > - rozbudowanie bota,
 > - dodanie dodatkowej funkcji potwierdzającej upr. administratora,
 > - convert do exe.
