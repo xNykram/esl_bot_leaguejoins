@@ -4,7 +4,7 @@
 </p>
 
 ### O aplikacji
-> Celem bota jest informowanie administratorów ESL MP o pojawiających się leaguejoinsach (prośba o dołączenie do turnieju). Aplikacja działa lokalnie, pobiera dane logowania i zapisuje je tylko w pliku json na dysku. Istnieje możliwość zapamiętania konta.
+> Celem bota jest informowanie administratorów ESL MP o pojawiających się leaguejoinsach (prośba o dołączenie do turnieju). Aplikacja działa lokalnie, pobiera od nas dane logowania oraz dodatkowe informacje, które zostaną podane. Istnieje możliwość zapamiętania konta poprzez lokalne zapisywanie danych w pliku **JSON**.
 
 ### Działanie
 >  Po wpisaniu danych do konta oraz ustaleniu delayu(częstotliwości odświeżania strony) bot uruchamia przeglądarkę oraz loguje się do panelu administracyjnego, następnie wchodzi w stronę turnieju i odświeża stronę według podanego przez nas czasu aż dopóki nie pojawią się nowe zapytania. Gdy bot znajdzie nową prośbę o dołączeniu do turnieju, wysyła nam informacje w postaci powiadomienia systemowego. Program wyłącza się automatycznie i należy go uruchomić ponownie po zatwierdzeniu drużyny do turnieju.
