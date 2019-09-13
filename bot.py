@@ -35,6 +35,9 @@ class AdminBot:
         selectadmin = driver.find_element_by_xpath('//*[@id="main-content"]')
         selectadmin.click()
         time.sleep(1)
+        logtoadminpanel = driver.find_element_by_xpath('//*[@id="adminEnableLink"]')
+        logtoadminpanel.click()
+        time.sleep(1)
     def checkLeagueJoins(self):
         toaster = win10toast.ToastNotifier()
         driver = self.driver
