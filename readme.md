@@ -15,7 +15,7 @@
 ### Cele
 > - rozbudowanie bota,
 > - system sprawdzania poprawności wpisanych danych,
-> - bugfixy z dev consolą,
+> - bugfixy z dev consol,
 
 
 ### Informacje od twórcy
