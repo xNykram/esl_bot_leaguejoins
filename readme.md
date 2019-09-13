@@ -13,10 +13,10 @@
 </p>
 
 ### Cele
-> - naprawienie zapisu delayu
 > - rozbudowanie bota,
-> - dodanie dodatkowej funkcji potwierdzającej upr. administratora,
-> - convert do exe.
+> - system sprawdzania poprawności wpisanych danych,
+> - bugfixy z dev consolą,
+
 
 ### Informacje od twórcy
 >  Aplikacja jest ciągle rozwijana, obecnie znajduje się w początkowych fazach tworzenia oraz testowania. Projekt aplikacji jest dla mnie przydatny bo również pełnie role administratora, jednakże jest to forma uczenia się i poznawania nowej technologii.
