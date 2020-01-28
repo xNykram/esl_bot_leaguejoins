@@ -16,7 +16,7 @@
 > - rozbudowanie bota,
 > - system sprawdzania poprawności wpisanych danych,
 > - bugfixy z dev consol,
-> - obsługa przeglądarek, firefox, opera,
+> - obsługa przeglądarek firefox, opera,
 
 ### Informacje od twórcy
 >  Aplikacja jest ciągle rozwijana, obecnie znajduje się w początkowych fazach tworzenia oraz testowania. Projekt aplikacji jest dla mnie przydatny bo również pełnie role administratora, jednakże jest to forma uczenia się i poznawania nowej technologii.
