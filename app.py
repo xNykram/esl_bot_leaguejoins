@@ -60,6 +60,6 @@ if __name__ == "__main__":
     app = wx.App()
     frame = BotFrame()
     frame.SetMaxSize(wx.Size(500,500))
-    frame.SetIcon(wx.Icon("images/icon.ico"))
+    frame.SetIcon(wx.Icon("assets/icon.ico"))
     frame.SetMinSize(wx.Size(300,300))
     app.MainLoop()

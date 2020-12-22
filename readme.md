@@ -1,22 +1,17 @@
-# APLIKACJA DLA ADMINISTRATORÓW ESL
+
+### About Application
+> The purpose of the bot is to inform the administrators of ESL MP about emerging leaguejoints (request to join the tournament). The application works locally, it collects login data and additional information that will be provided. It is possible to save the account by locally saving the data in **JSON** file.
+
 <p align="center">
   <img width="600" height="450" src="https://i.imgur.com/FuOlCC3.png">
 </p>
 
-### O aplikacji
-> Celem bota jest informowanie administratorów ESL MP o pojawiających się leaguejoinsach (prośba o dołączenie do turnieju). Aplikacja działa lokalnie, pobiera od nas dane logowania oraz dodatkowe informacje, które zostaną podane. Istnieje możliwość zapamiętania konta poprzez lokalne zapisywanie danych w pliku **JSON**.
+### Application functions
+>  When the user enters the account data and sets the delay (refresh rate), the bot starts the browser and logs into the administration panel, then enters the tournament page and refreshes the page according to the time we have given until new queries appear. When the bot finds a new request to join the tournament, it sends us information in the form of a system notification. The program will automatically turn off and must be restarted after the team is approved for the tournament.
 
-### Działanie
->  Po wpisaniu danych do konta oraz ustaleniu delayu(częstotliwości odświeżania strony) bot uruchamia przeglądarkę oraz loguje się do panelu administracyjnego, następnie wchodzi w stronę turnieju i odświeża stronę według podanego przez nas czasu aż dopóki nie pojawią się nowe zapytania. Gdy bot znajdzie nową prośbę o dołączeniu do turnieju, wysyła nam informacje w postaci powiadomienia systemowego. Program wyłącza się automatycznie i należy go uruchomić ponownie po zatwierdzeniu drużyny do turnieju.
 <p align="center">
   <img src="https://i.imgur.com/HiKFJET.png">
 </p>
 
-### Cele
-> - rozbudowanie bota,
-> - system sprawdzania poprawności wpisanych danych,
-> - bugfixy z dev consol,
-> - obsługa przeglądarek firefox, opera,
-
-### Informacje od twórcy
->  Aplikacja jest ciągle rozwijana, obecnie znajduje się w początkowych fazach tworzenia oraz testowania. Projekt aplikacji jest dla mnie przydatny bo również pełnie role administratora, jednakże jest to forma uczenia się i poznawania nowej technologii.
+### Summary
+>  The application came in handy when I played a full role as a volunteer for ESL Poland.
